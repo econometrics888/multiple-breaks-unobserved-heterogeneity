@@ -45,7 +45,7 @@ The code was developed and tested using the following environment:
 
 | Software | Version | Notes |
 |----------|---------|-------|
-| MATLAB | R2023a | Required |
+| MATLAB | R2022b | Required |
 
 All scripts have been tested on macOS and Windows operating systems.
 
